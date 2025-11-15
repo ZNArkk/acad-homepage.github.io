@@ -19,7 +19,6 @@ redirect_from:
 
 Currently studying at Shaanxi Normal University, researching web3 fraud detection based on multi-view learning.
 
-
 # 🔥 News
  
 
