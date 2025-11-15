@@ -27,7 +27,7 @@ Currently studying at Shaanxi Normal University, researching web3 fraud detectio
 
 
 # 🎖 Honors and Awards
-- *2022* Second-place award in the CSP-J 
+- *2021* Second-place award in the CSP-J 
 
 
 # 📖 Educations
@@ -38,4 +38,4 @@ Currently studying at Shaanxi Normal University, researching web3 fraud detectio
 
 
 # 💻 Internships
-.
+
